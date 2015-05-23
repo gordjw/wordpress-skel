@@ -1,3 +1,33 @@
 [submodule "wp"]
 	path = wp
 	url = https://github.com/WordPress/WordPress
+[submodule "content/plugins/akismet"]
+	path = content/plugins/akismet
+	url = https://github.com/wp-plugins/akismet
+[submodule "content/plugins/broken-link-checker"]
+	path = content/plugins/broken-link-checker
+	url = https://github.com/wp-plugins/broken-link-checker
+[submodule "content/plugins/cms-tree-page-view"]
+	path = content/plugins/cms-tree-page-view
+	url = https://github.com/wp-plugins/cms-tree-page-view
+[submodule "content/plugins/enable-media-replace"]
+	path = content/plugins/enable-media-replace
+	url = https://github.com/wp-plugins/enable-media-replace
+[submodule "content/plugins/fd-footnotes"]
+	path = content/plugins/fd-footnotes
+	url = https://github.com/wp-plugins/fd-footnotes
+[submodule "content/plugins/table-of-contents-plus"]
+	path = content/plugins/table-of-contents-plus
+	url = https://github.com/wp-plugins/table-of-contents-plus
+[submodule "content/plugins/tinymce-advanced"]
+	path = content/plugins/tinymce-advanced
+	url = https://github.com/wp-plugins/tinymce-advanced
+[submodule "content/plugins/dynamic-to-top"]
+	path = content/plugins/dynamic-to-top
+	url = https://github.com/wp-plugins/dynamic-to-top
+[submodule "content/plugins/network-plugin-auditor"]
+	path = content/plugins/network-plugin-auditor
+	url = https://github.com/wp-plugins/network-plugin-auditor
+[submodule "content/plugins/safecss"]
+	path = content/plugins/safecss
+	url = https://github.com/wp-plugins/safecss
